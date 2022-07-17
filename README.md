@@ -2,7 +2,7 @@
 
 ![1](https://github.com/srasmussen3/SpaceTourism/blob/main/images/SpaceTourismHome.jpeg)
 
-**[View Deployed](https:/srasmussen3.github.io/SpaceTourism)**
+**[View Deployed](https://srasmussen3.github.io/SpaceTourism)**
 
 > This project uses HTML, CSS and JS to build a responsive and accessible mutipage space travel website. Its design is sourced from Frontend Mentor.
 
